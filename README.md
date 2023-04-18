@@ -1,3 +1,17 @@
+This is an expense application throught the cousre in Udemy.com "React The Complete Guide(incl Hooks, React Router, Redux)
+by Maximilian Schwarzmuller.
+
+This neat application let's the user view and add new expenses.
+The user can view expense item and amout by clicking on a month complete with data bars.
+The user may also sort by year which will pull up any expense item for that year.
+If no expenses were made that a year   a message of "Found no expenses." will appear.
+The user may add a new expense by clicking on the purple "Add new Expense" button.
+This will bring up a light purple modal with two purple buttons labeled: "Cancel" and "Add Expense"
+The user can then add new expenses here by creating a title, an amount, and date completed with a pull-down calendar.
+If there are expnses, they will appear in a gray box  with the date, item, and amount paid.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
